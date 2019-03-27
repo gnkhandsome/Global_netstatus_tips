@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="net_work_failed">网络连接不可用，请检查网络设置</string>
+</resources>

@@ -1,1 +1,1 @@
-# Global_netstatus_tips
+# 全局显示网络状态提示；
